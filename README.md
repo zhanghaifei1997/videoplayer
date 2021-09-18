@@ -1,5 +1,12 @@
 # videoplayer
+### 这是一个vue+element-ui+chimee的demo，主要为了实现vue项目的视屏播放
+```
+About页面--四分屏播放
+Home页面--单页单屏播放
+```
+
 ### 在vue中引入chimee播放器
+### [chimee播放器开发文档](http://www.mianshigee.com/tutorial/chimee/6.md)
 ```
 npm i chimee
 
